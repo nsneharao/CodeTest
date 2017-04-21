@@ -76,10 +76,10 @@
             </objects>
             <point key="canvasLocation" x="791" y="127"/>
         </scene>
-        <!--Deatil View Controller-->
+        <!--Detail View Controller-->
         <scene sceneID="qrw-rb-6Rp">
             <objects>
-                <viewController storyboardIdentifier="detailView" useStoryboardIdentifierAsRestorationIdentifier="YES" id="ueO-dq-WwY" customClass="DeatilViewController" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="detailView" useStoryboardIdentifierAsRestorationIdentifier="YES" id="ueO-dq-WwY" customClass="DetailViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="k3a-oJ-ccN"/>
                         <viewControllerLayoutGuide type="bottom" id="eA7-NB-zzw"/>
